@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  wybraˆam bieganie poniewa¾ jest to sport o niskim progu wej˜cia
 =======
  bieganie
 >>>>>>> nazwa
+=======
+ sport ten polega na regularnym uprawianiu joggingu
+>>>>>>> opis
